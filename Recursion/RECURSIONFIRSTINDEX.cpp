@@ -1,4 +1,6 @@
 #include <iostream>
+#include<stdlib.h>
+clrscr()
 using namespace std;
 int linearsearch(int array[], int be, int N, int toBesearched) {
     if (be > N) {
