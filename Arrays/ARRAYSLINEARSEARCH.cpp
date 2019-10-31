@@ -1,5 +1,6 @@
 
 #include <bits/stdc++.h>
+clrscr();
 using namespace std;
 int main() {
     int N;
